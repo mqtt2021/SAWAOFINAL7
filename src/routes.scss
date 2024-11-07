@@ -1,0 +1,14 @@
+.routes{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 85vw;
+    @media (max-width: 600px) {  
+        position: fixed;
+        top: 10%;
+        height:90%;    
+        width: 100%;
+        overflow: hidden;
+        
+    }   
+}     
